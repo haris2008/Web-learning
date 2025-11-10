@@ -1,0 +1,25 @@
+/* Universal selector */
+* {
+  color: blue;
+}
+/* Elements Selector */
+h1 {
+  color: green;
+}
+button {
+  color: brown;
+}
+/* Id Selector */
+#HeadingOne {
+  color: yellow;
+}
+#HeadingTwon {
+  color: chocolate;
+}
+#HeadingThree {
+  color: brown;
+}
+/* Class Selector */
+.A {
+  color:  rgb(64, 29, 37);
+}
