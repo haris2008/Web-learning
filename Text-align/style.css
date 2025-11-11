@@ -1,0 +1,40 @@
+/* .box {
+    background-color: blue;
+} */
+p {
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: black;
+  text-decoration: overline;
+}
+h1 {
+  text-align: center;
+  color: white;
+  text-decoration: red underline;
+}
+h2 {
+  color: white;
+  text-align: center;
+  text-decoration: overline red;
+}
+a {
+  text-align: center;
+  color: brown;
+  text-decoration: none;
+}
+button {
+  text-align: center;
+  background-color: cornsilk;
+}
+/* button {
+  display: block;
+  margin: 20px auto;
+  background-color: cornsilk;
+  color: brown;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+} */
