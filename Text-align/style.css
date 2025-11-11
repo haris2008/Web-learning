@@ -7,7 +7,7 @@ p {
 }
 body {
   background-color: black;
-  text-decoration: overline;
+  text-decoration: underline;
 }
 h1 {
   text-align: center;
