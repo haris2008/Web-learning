@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+#h1 {
+    font-weight: normal;
+    text-align: center;
+    text-decoration: red underline;
+    color: white;
+}
+#h2 {
+    font-weight: bold;
+    text-decoration: red underline;
+    color: white;
+}
+#h3 {
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: red underline;
+    color: white;
+}
+#h4 {
+    font-weight: lighter;
+    text-decoration: red underline;
+    color: white;
+}
