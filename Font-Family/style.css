@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+#one {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#two{
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Genetic font families */
+#Three{
+    font-family: serif;
+}
+#four{
+    font-family: sans-serif;
+}
+#five{
+    font-family: cursive ;
+}
+#six{
+    font-family: fantasy ;
+}
+#seven{
+    font-family: monospace;
+}
