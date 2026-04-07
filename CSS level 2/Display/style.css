@@ -1,0 +1,70 @@
+/* inline and block display properties */
+
+/* div {
+    background-color: pink;
+    display: inline;
+}
+button {
+    background-color: lightblue;
+    display: block;
+} */
+
+/* inline-block display property */
+
+/* .First {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: pink;
+
+}
+.Second {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: lightblue;
+   
+}
+.Third {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: lightgreen;
+    
+} */
+
+/* None display property */
+
+/* .First {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: none;
+    background-color: pink;
+
+}
+.Second {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: lightblue;
+   
+}
+.Third {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: lightgreen;
+    
+} */

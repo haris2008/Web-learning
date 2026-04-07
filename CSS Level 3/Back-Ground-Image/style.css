@@ -1,0 +1,13 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    border: 2px solid black;
+    display: inline-block;
+}
+.box1{
+    /* width: 75px; */
+    background-image: url("alexander-london-mJaD10XeD7w-unsplash.jpg");
+    background-size:cover;
+     /* background-repeat: no-repeat; */
+}

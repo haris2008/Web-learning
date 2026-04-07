@@ -1,0 +1,10 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border: 2px solid brown;
+    padding: 20px;
+    text-align: left;
+    padding-left: 0%;
+    padding-top: 0%;
+} 
